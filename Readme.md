@@ -7,7 +7,7 @@ e possui uma tela simples de venda...
 Possui tambem integração com banco de dados SQLSERVER atraves de string de conexao
 e integração com o WebService do Correios para busca de endereço
 
-Todo o codigo esta todo comentado (linha a linha) para uma melhor compreensão
+O codigo esta todo comentado (linha a linha) para uma melhor compreensão
 
 Este é o sistema utilizado no aprendizado em C# 
 com Windows Forms Application 
