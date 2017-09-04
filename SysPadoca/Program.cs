@@ -20,7 +20,7 @@ namespace SysPadoca
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            //Caso voce queira testar algum form de maneira direta
+            //Caso você queira testar algum form de maneira direta
             //chame-o nesse linha, é ela que invoca o primeiro form do programa
             Application.Run(new frmLogin());
         }
