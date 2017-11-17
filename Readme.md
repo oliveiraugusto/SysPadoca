@@ -1,21 +1,21 @@
-#### SysPadoca | Vers„o 2.0 ###
+#### SysPadoca | Vers√£o 2.0 ###
 
 Este sistema gerencia uma padaria Ficticia 
-com cadastro de Clientes, Produtos, Usu·rios
+com cadastro de Clientes, Produtos, Usu√°rios
 e possui uma tela simples de venda...
 
-Possui tambem integraÁ„o com banco de dados SQLSERVER atraves de string de conexao
-e integraÁ„o com o WebService do Correios para busca de endereÁo
+Possui tambem integra√ß√£o com banco de dados SQLSERVER atraves de string de conexao
+e integra√ß√£o com o WebService do Correios para busca de endere√ßo
 
-O codigo esta todo comentado (linha a linha) para uma melhor compreens„o
+O codigo esta todo comentado (linha a linha) para uma melhor compreens√£o
 
-Este È o sistema utilizado no aprendizado em C# 
+Este √© o sistema utilizado no aprendizado em C# 
 com Windows Forms Application 
 no Curso Tecnico em Informatica 
 do Senac Botucatu
 
 Clone, altere e use da melhor forma que achar necessario
-Este Repositorio estar· sempre em atualizaÁ„o
+Este Repositorio estar√° sempre em atualiza√ß√£o
 
-Para duvidas ou sugestıes, entre em contato com:
-Cesar Oliveira j˙nior | <cesar.aoliveira@sp.senac.br> OR <contato@nosferatus.com>
+Para duvidas ou sugest√µes, entre em contato com:
+Cesar Oliveira j√∫nior | <cesar.aoliveira@sp.senac.br> OR <oliveiraugusto@ymail.com>
